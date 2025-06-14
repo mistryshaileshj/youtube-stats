@@ -1,0 +1,26 @@
+
+Get Google API Key
+--------------------
+Go to the Google Cloud Console: https://console.cloud.google.com/
+Select or create a project: Choose an existing project or create a new one. 
+Navigate to Credentials: Go to APIs & Services > Credentials. 
+Create credentials: Click on "+ Create credentials" and select "API key". 
+Copy the API key: The newly created API key will be displayed. Copy the key for use in your application. 
+
+
+Get channel Id
+----------------
+1. Using YouTube Settings:
+Sign in to YouTube and go to your channel.
+Click on your profile picture in the top right corner, then select "Settings".
+Go to "Advanced settings".
+Scroll down to find your channel ID. 
+
+2. Using Channel Page Source Code:
+Go to your YouTube channel.
+Right-click on any part of the page and select "View page source".
+Search for "channel ID" or "externalId" in the code. 
+
+3. Using the "About" Tab:
+Go to your channel and click on the "About" tab.
+Under the "Stats" section, you'll see a "Copy Channel ID" option
