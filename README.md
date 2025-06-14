@@ -50,7 +50,7 @@ Make sure your AWS Glue job role includes the following permissions:
 
 ## Power BI Dashboard
 The Power BI dashboard created as part of this project visualizes the YouTube channel statistics retrieved by the ETL pipeline.
-[Click here to download the Power BI Report (PBIX)](./reports/youtube_dashboard.pbix)
+[Click here to download the Power BI Report (PBIX)](./MI - Youtube Stats Dashboard.pbix)
 
 ### Visuals Included:
 - Total views, likes over time
